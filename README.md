@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - <a href="[zhihu.com/people/hui-yi-69-71-7]">知乎</a>
 
 ### Personal statement
-- <a href="[https://h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd">A personal statement</a>
+- <a href="[https://h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd]">A personal statement</a>
