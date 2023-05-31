@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ❤️ I’m passionate about using advanced products and enjoying efficient collaboration.
 
 ### Blog
-- <a href="[https://www.notion.so/Area-51-Alien-WTF-Records-8739165b5efd4e32b6704f55e51c0511]">Notion_Blog</a>
+- <a href="[https://amuleee.notion.site/amuleee/Amos-s-blog-2113f1a152e14ccbb917631aa054592b]">Notion_Blog</a>
 - <a href="[zhihu.com/people/hui-yi-69-71-7]">知乎</a>
 
 ### Personal statement
-- <a href="[https://h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd]">A personal statement</a>
+- <a href="[h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd]">A personal statement</a>
