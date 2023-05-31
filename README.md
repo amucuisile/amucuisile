@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying Finance as a second-year undergraduate student at Nanchang University.
 - 🌱 I’m currently self-studying Internet and Computer Science and Technology.
-- 👯 I’m working at @Ncuhome at Nanchang University.
+- 👯 I’m working at <a href="https://github.com/ncuhome">@Ncuhome</a> at Nanchang University.
 - 🤔 I’m studying Internet Product, Administrative Management, and Product Marketing.
 - 💻 I’m more skilled in Python|Java.
 - 🎨 I have some knowledge about R|SQL|HTML|CSS and other related areas.
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ❤️ I’m passionate about using advanced products and enjoying efficient collaboration.
 
 ### Blog
-- (Notion_Blog)[https://amuleee.notion.site/Amos-s-blog-2113f1a152e14ccbb917631aa054592b]
-- (知乎)[zhihu.com/people/hui-yi-69-71-7]
+- <a href="[https://www.notion.so/Area-51-Alien-WTF-Records-8739165b5efd4e32b6704f55e51c0511](https://amuleee.notion.site/Amos-s-blog-2113f1a152e14ccbb917631aa054592b)">Notion_Blog 👽</a>
+- <a href="[zhihu.com/people/hui-yi-69-71-7]">知乎</a>
 
 ### Personal statement
-- (A personal statement)[https://h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd]
-
+- <a href="[https://h5yc6798f4.feishu.cn/docx/VC1mdY5C3o4cgCxm0C8c4iSGnfd]">A personal statement</a>
